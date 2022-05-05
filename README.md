@@ -37,7 +37,8 @@
 
 https://elianahj.github.io/QuickSort/   
 
-> 시간복잡도 = **O(nlogn)**
+> 시간복잡도 = **O(nlogn)**   
+
 <img src = "https://user-images.githubusercontent.com/80517119/166620902-a65925e0-50bc-454d-ab95-8cbf81b54bdc.png" width="70%"></img>
 
 #### 대체로 정렬 알고리즘은 정렬된 데이터 > 랜덤 데이터 > 역 정렬 데이터 순으로 성능이 좋습니다

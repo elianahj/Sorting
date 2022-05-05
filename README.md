@@ -1,8 +1,8 @@
 # Sorting_201902954한현진
 ## 정렬 알고리즘 종류 
 ### 버블정렬
-> 이웃하는 숫자를 비교하여 작은 수를 앞쪽으로 이동하는 과정을 반복하여 정렬
-> 시간복잡도 = **O(n^2)**
+> 이웃하는 숫자를 비교하여 작은 수를 앞쪽으로 이동하는 과정을 반복하여 정렬   
+> 시간복잡도 = **O(n^2)**   
 ![1](https://user-images.githubusercontent.com/80517119/166942093-30ed662e-dd8e-4b92-ad5a-c7d3231ed18e.JPG)
 
 <img src = "https://user-images.githubusercontent.com/80517119/166620862-80ce91ef-d8cf-492b-bfdf-4db5759a4fd1.png" width="70%"></img>
@@ -13,15 +13,15 @@
   
 > => 이러한 방식으로 마지막에 2개의 원소 중 최솟값을 선택하여 자리를 바꿈으로써 오름차순의 정렬을 마침
 
-> 시간복잡도 = **O(n^2)**
- ![2](https://user-images.githubusercontent.com/80517119/166945206-f6737560-35fe-478e-87ee-2964f2fae21d.JPG)
+> 시간복잡도 = **O(n^2)**   
+![2](https://user-images.githubusercontent.com/80517119/166945206-f6737560-35fe-478e-87ee-2964f2fae21d.JPG)
 
 <img src = "https://user-images.githubusercontent.com/80517119/166620896-6146e952-4727-467f-bb84-982397360cf7.png" width="70%"></img>
 ### 삽입정렬
-> 배열을 정렬된 부분(앞부분)과 정렬 안 된 부분(뒷부분)으로 나누고, 정렬 안 된 부분의 가장 왼쪽 원소를 정렬된 부분의 적절한 위치에 삽입하여 정렬되도록 하는 과정을 반복
-> **평균** 시간복잡도 = **O(n^2)**
-> **최선** = 이미 정렬되어 있을 경우 시간복잡도 = **O(n)**
-> ![3](https://user-images.githubusercontent.com/80517119/166945336-93313d09-0ef6-4312-affe-a5a3f8108d75.JPG)
+> 배열을 정렬된 부분(앞부분)과 정렬 안 된 부분(뒷부분)으로 나누고, 정렬 안 된 부분의 가장 왼쪽 원소를 정렬된 부분의 적절한 위치에 삽입하여 정렬되도록 하는 과정을 반복   
+> **평균** 시간복잡도 = **O(n^2)**   
+> **최선** = 이미 정렬되어 있을 경우 시간복잡도 = **O(n)**    
+![3](https://user-images.githubusercontent.com/80517119/166945336-93313d09-0ef6-4312-affe-a5a3f8108d75.JPG)
 
 <img src = "https://user-images.githubusercontent.com/80517119/166620887-998528a1-ebd3-486f-b740-022381f3f802.png" width="70%"></img>
 ### 퀵정렬
